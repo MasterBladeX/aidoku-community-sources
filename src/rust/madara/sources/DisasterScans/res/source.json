@@ -1,0 +1,18 @@
+{
+	"info": {
+		"id": "en.disasterscans",
+		"lang": "en",
+		"name": "DisasterScans",
+		"version": 5,
+		"url": "https://disasterscans.com/",
+		"nsfw": 0
+	},
+	"listings": [
+		{
+			"name": "Trending"
+		},
+		{
+			"name": "Latest Release"
+		}
+	]
+}
